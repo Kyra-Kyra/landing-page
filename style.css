@@ -195,4 +195,57 @@ a {
 
 /* call to action starts here */
 
+.fourth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 250px;
+}
+
+.fourth-wrapper {
+  display: flex;
+}
+
+.action-body {
+  display: flex;
+  background-color: #3882F6;
+  border-radius: 10px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.action-text {
+  margin-right: 100px;
+  color: #F9FAF8;
+}
+
+.action-subtext {
+  font-size: 15px;
+}
+
+.action-bold {
+  font-weight: bold;
+}
+
+.action-button {
+  outline: none;
+  border-radius: 6px;
+  padding: 3px 18px 3px 18px;
+  border-style: initial;
+  background: none;
+  color: #F9FAF8;
+  border: #F9FAF8 solid 1px;
+  cursor: grab;
+}
+
+.action-signup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* footer */
+
 
