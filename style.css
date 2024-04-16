@@ -117,11 +117,41 @@ a {
 
 .second-container {
   display: flex;
+  justify-content: center;
 }
 
 .second-wrapper {
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 35px;
+}
+
+.info-subtext {
+  flex-wrap: wrap;
+  max-width: 120px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 300;
+  color: rgb(41, 41, 41);
+}
+
+.info-content {
+  display: flex;
+  gap: 30px;
   
 }
+
+.why-us {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1F2937;
+}
+
+.info-header {
+  padding-bottom: 35px;
+}
+
+
 
 
