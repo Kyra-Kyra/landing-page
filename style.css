@@ -103,3 +103,25 @@ a {
   font-size: 18px;
   font-weight: 100;
 }
+
+
+/* info section starts here */
+
+.info-img {
+  height: auto;
+  width: 120px;
+  border: #3882F6 solid 3px;
+  border-radius: 10px;
+  
+}
+
+.second-container {
+  display: flex;
+}
+
+.second-wrapper {
+  display: flex;
+  
+}
+
+
